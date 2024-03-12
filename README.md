@@ -1,1 +1,1 @@
-PaySwift
+KwanzaPay
